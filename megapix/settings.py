@@ -149,6 +149,6 @@ from celery.schedules import crontab
 CELERY_BEAT_SCHEDULE = {
     'fetch-countries-every-one-hour': {
         'task': 'countries.tasks.fetch_and_store_countries',
-        'schedule': crontab(minute='*', hour='1'),
+        'schedule': crontab(minute='0'),
     },
 }
