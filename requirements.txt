@@ -1,0 +1,10 @@
+django
+djangorestframework
+celery
+redis
+requests
+psycopg2-binary
+psycopg
+django-celery-beat
+django-filter
+django-environ
