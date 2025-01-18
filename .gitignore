@@ -1,0 +1,6 @@
+megapix/__pycache__/
+countries/__pycache__/
+staticsiles/
+celerybeat-schedule.dir
+celerybeat-schedule.dat
+celerybeat-schedule.bak
